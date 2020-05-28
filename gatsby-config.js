@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Gias Personal Website`,
-    author: `Karthik Raveendran`,
+    author: `Gia Karthik`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gias.netlify.com/`,
+    siteUrl: `https://gias-world.netlify.com/`,
     social: {
       twitter: `karthikraveendran`,
     },
