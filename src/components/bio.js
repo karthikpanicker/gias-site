@@ -35,10 +35,6 @@ function Bio() {
             />
             <p>
               Written by <strong>{author}</strong> a 7 year old aspiring writer.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
             </p>
           </Container>
         )
