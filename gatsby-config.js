@@ -4,7 +4,7 @@ module.exports = {
     title: `Gias Personal Website`,
     author: `Gia Karthik`,
     description: `Gia's personal website.`,
-    siteUrl: `https://gias-world.netlify.com/`,
+    siteUrl: `https://gias-world.netlify.app/`,
     social: {
       twitter: `karthikraveendran`,
     },
@@ -64,7 +64,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-168253678-1`,
       },
     },
     {
